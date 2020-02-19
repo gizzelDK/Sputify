@@ -32,7 +32,7 @@ namespace Sputify.Models
                  new Song{SongName="Out on the weekend", SongPath="C:\\music\\Out on the weekend.mp3", TrackNumber=1 },
                  new Song{SongName="Harvest", SongPath="C:\\music\\Harvest.mp3", TrackNumber=2 },
                  new Song{SongName="A man needs a maid", SongPath="C:\\music\\A man needs a maid.mp3", TrackNumber=3 },
-                 new Song{SongName="You'll never be lonely again", SongPath="C:\\music\\Ull never be lonely again.mp3", TrackNumber=1 }
+                 new Song{SongName="You'll never be lonely again", SongPath="C:\\music\\Ull never be lonely again 360.mp3", TrackNumber=1 }
            };
             foreach (Song b in songs)
             {
